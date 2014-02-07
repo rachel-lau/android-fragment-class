@@ -1,0 +1,7 @@
+.DS_Store
+SourceFiles/Skeletons/FragmentsLab/bin/
+SourceFiles/Skeletons/FragmentsLab/gen/
+SourceFiles/TestCases/FragmentsLabTestPhone/bin/
+SourceFiles/TestCases/FragmentsLabTestPhone/gen/
+SourceFiles/TestCases/FragmentsLabTestTablet/bin/
+SourceFiles/TestCases/FragmentsLabTestTablet/gen/
